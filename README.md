@@ -2,7 +2,7 @@
 - 👀 I’m interested in Operating System and Softwares
 - 🌱 I’m currently learning Windows, Linux and Mac OS
 - 💞️ I’m looking to collaborate on Testing old softwares
-- 📫 How to reach me: https://isoriver.com/contact-us/
+- 📫 How to reach me: https://isoriver.com/
 
 <!---
 isoriver/isoriver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
